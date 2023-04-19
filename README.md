@@ -74,7 +74,7 @@ We can now see that the tickets have been updated from previous screenshot refle
 <img src="https://i.imgur.com/8Iywct3.png" height="65%" width="65%" alt="ticket updates"/>
   </p>
 
-##### Resoltuion:
+##### Resolution:
 After connecting with the Sys Admin tean, we received a response letting us know that the ticket has been resolved and now reflects those comments (pictured below). 
 
 <p align="center">
